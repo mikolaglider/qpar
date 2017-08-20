@@ -1,0 +1,147 @@
+h1 {
+    margin: 0;
+    padding: 0;
+    color: #e68a1c;
+    font-weight: normal;
+    font-size: 1.5em;
+}
+
+table {
+    width: 100%;
+}
+
+a {
+    color: #e68a1c;
+}
+
+.content {
+    margin-top: 2%;
+}
+
+.main-slider img {
+    width: 100%;
+}
+
+.arrow_top {
+    background: url(../img/top.png) no-repeat;
+    cursor: pointer;
+    width: 41px;
+    height: 19px;
+    position: fixed;
+    bottom: 10%;
+    right: 10%;
+}
+
+/*price page*/
+.search_result_wrapper
+{
+    background-color:#FFF;
+}
+.search_result_wrapper .header_wrapper td
+{
+    background-color:#F8F5F0;       
+    border-bottom:2px solid #FF9900;
+    font-size:1em;
+    font-weight:bold;
+    padding:3px 5px;
+    width:1px;
+}
+
+.search_result_wrapper .detail_group
+{
+    font-size:1em;
+    font-weight:normal;
+    padding: 3px 5px;
+    font-weight:bold;
+    color:#333;
+    border-bottom:1px solid #CCC;
+}
+.search_result_wrapper .detail_item  td
+{
+    font-size:1em;
+    font-weight:normal;
+    padding:3px 5px;
+}
+.detail_item .make_name
+{
+    background-color:#F8F5F0;
+}
+
+/*detali*/
+
+.cat_page_wrapper #cat_content_wrapper
+{
+    float:left;
+    width:99%;
+    padding-left:10px;
+}
+
+.cat_page_wrapper #cat_content_wrapper #listing 
+{
+    margin-top:10px;
+    border-bottom:1px solid #CCC;
+}
+.detail_brief_wrapper
+{
+    border-top:1px solid #CCC;    
+    font-size:1.2em;
+}
+.detail_brief_wrapper .detail_thumb_wrapper
+{
+    padding-top:5px;
+    text-align: center;
+    width:100px;
+}
+.detail_brief_wrapper
+{
+    min-height:100px;
+}
+.detail_brief_wrapper .brief_photo
+{
+    max-height:100px;
+}
+.detail_brief_wrapper .make_name
+{
+    font-weight:bold;
+    font-size:1em;
+    margin-top:5px;
+}
+.detail_brief_wrapper .btn_show_price_wrapper
+{
+    width:100px;
+    text-align:center;
+}
+.detail_brief_wrapper .detail_desc_wrapper
+{
+    padding-top:5px;
+    color:#666;
+    font-size:1.2em;
+}
+
+#cat_content_wrapper .cat_pager
+{
+    float:right;
+}
+#cat_content_wrapper .cat_pager a
+{
+    border:none;
+    padding:3px;
+}
+#cat_content_wrapper .cat_pager .active
+{
+    font-weight:bold;
+    background-color: #e68a1c;
+    color:#FFF;
+}
+
+.menu-footer__title {
+    margin-bottom: 0 !important;
+}
+
+.menu-footer__item {
+    padding: 3px 0 3px 10px !important;
+}
+
+.menu-footer__item::after {
+    top: 8px !important;
+}
