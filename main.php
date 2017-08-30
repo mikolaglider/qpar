@@ -1,13 +1,3 @@
-
-
-
-	
-
-		<div class="main-slider content-page__main-slider">
-			<img src="/img/slide.jpg">
-		</div>
-
-
 		<div class="col-xs-12">
 		<!--Begin Адаптивные вкладки-->
 		<ul class="accordion-tabs" data-accordion="">
